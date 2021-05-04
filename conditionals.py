@@ -30,11 +30,11 @@
 
 #Utilizando los operador de comparacion
 
-x = 3
-if x > 2 and x < 20:
-    print("X is greater than 2 and lesser than 20")
-elif x > 2 and x > 20:
-    print("X is greater than 2 and greater than 20")
-else:
-    print("X is lesser than 2")
+# x = 3
+# if x > 2 and x < 20:
+#     print("X is greater than 2 and lesser than 20")
+# elif x > 2 and x > 20:
+#     print("X is greater than 2 and greater than 20")
+# else:
+#     print("X is lesser than 2")
     
